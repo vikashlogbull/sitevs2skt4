@@ -54,5 +54,6 @@
  * @see http://drupal.org/documentation/install/multi-site
  */
 $sites['sitevs0173.evolverinc.tech'] = 'all';
+$sites['subsiteskt0908.evolverinc.tech'] = 'subsiteskt0908.evolverinc.tech';
 $sites['subsiteskt0908.site.com'] = 'subsiteskt0908.site.com';
 $sites['subsiteskt0318.site.com'] = 'subsiteskt0318.site.com';
